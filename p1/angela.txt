@@ -1,3 +1,0 @@
-MILEAGE REIMBURSEMENT CALCULATOR
-Enter beginning odometer reading=> Enter ending odometer reading=> You traveled 305.4 miles. At $.35 per mile,
-your reimbursement is $106.89.
