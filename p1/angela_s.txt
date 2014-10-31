@@ -1,0 +1,3 @@
+Enter desired grade> Enter minimum average required> Enter current average in course> Enter how much the final counts
+as a percentage of the course grade> 
+You need a score of 94.20 on the final to get a B.

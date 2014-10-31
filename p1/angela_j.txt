@@ -1,0 +1,1 @@
+Please enter the takeoff speed of the jet in km/hr > Please enter the catapult distance in meters > The jet would accelerate at 31.72 m/s^2 for 2.43 seconds.

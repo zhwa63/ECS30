@@ -1,0 +1,1 @@
+Please enter the length and width of the yard > Please enter the length and width of the house > 444 square feet will take 3 minutes and 42 seconds to cut.

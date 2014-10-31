@@ -1,0 +1,8 @@
+Are you making white or sweet bread (w or s)? Is this a single or double loaf (s or d)? Are you going to bake manually (y or n)? Primary kneading: 15 minutes
+Primary rising: 60 minutes
+Secondary kneading: 18 minutes
+Secondary rising: 20 minutes
+Loaf shaping: 2 seconds
+You should remove the dough for manual baking.
+
+For a total baking time of 113 minutes and 2 seconds.

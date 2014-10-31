@@ -1,0 +1,5 @@
+This program will ask for the minutes and seconds for the time it
+took for a runner to run a mile.  The program will then calculate
+the feet per second and meters per second for that runner.
+
+Minutes for the runner: Seconds for the runner: That is 22.2 feet per second, and 6.78 meters per second.

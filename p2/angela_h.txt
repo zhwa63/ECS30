@@ -1,0 +1,5 @@
+This program determines the total cost of owning a home for five years.
+The user will enter initial cost in whole dollars, annual fuel costs in 
+whole dollars, and the annual tax rate as a real number.
+
+Please enter the initial cost, fuel cost, and tax rate: The total cost is $86875.00.
