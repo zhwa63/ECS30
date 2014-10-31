@@ -1,1 +1,0 @@
-Please enter two integers with the first larger than the second > The Pythagorean triple of 2 and 1 is 3, 4, and 5.
