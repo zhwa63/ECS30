@@ -1,1 +1,0 @@
-Please enter the length and width of the yard > Please enter the length and width of the house > 7790 square feet will take 64 minutes and 55 seconds to cut.
