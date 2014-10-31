@@ -1,7 +1,0 @@
-Please enter the number of weekday minutes, night minutes: Please enter the number of weekend minutes: 
-Weekday minutes: 2348, night minutes: 1221, weekend minutes: 348
-Average minute cost: $0.19
-
-Pretax bill: $739.19
-Taxes:       $ 38.81
-Total bill:  $778.00

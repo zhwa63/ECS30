@@ -1,8 +1,0 @@
-This program calculates the cost of materials for three open-top cylindrical
-containers.  It reads the radius, height, cost per square centimeter, and 
-quantity for each container from the file cans.txt.  Each line in cans.txt has 
-the format: radius height cost_per_sq_cm quantity.
-
-Each can #1 has surface area  596.400, and the run will cost $223.65.
-Each can #2 has surface area 7442.433, and the run will cost $11163.65.
-Each can #3 has surface area 2565.307, and the run will cost $5002.35.

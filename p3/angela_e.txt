@@ -1,5 +1,0 @@
-(1) Carbon monoxide
-(2) Hydrocarbons
-(3) Nitrogen oxides
-(4) Nonmethane hydrocarbons
-Enter pollutant number>> Enter number of grams emitted per mile>> Enter odometer reading>> Emissions do not exceed permitted level of 3.40 grams/mile.

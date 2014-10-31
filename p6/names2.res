@@ -1,9 +1,0 @@
-Bonds           Barry           L
-Bonds           Bobby           S
-Bush            Barbara         G
-Bush            George          W
-Bush            Jenna           F
-Bush            Laura           M
-Clinton         Chelsea         T
-Clinton         Hillary         R
-Clinton         William         I

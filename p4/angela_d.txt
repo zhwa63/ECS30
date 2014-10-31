@@ -1,4 +1,0 @@
-Smallest: -78.30
-Largest:   23.40
-Average:   -2.75
-Standard deviation: 38.309
